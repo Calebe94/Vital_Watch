@@ -1,0 +1,3 @@
+MAIN:	main.bmp
+SENSORS:sensors.bmp
+PROFILE:profile1.bmp

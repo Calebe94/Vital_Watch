@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=VeiWatch
+Comment=veiWatch OpenSource
+#Lembrar de Alterar o Diretório
+Exec=bash -c '/home/calebe94/Projetos/Programacao_em_C/TODO/./teste $SHELL'
+Terminal=true
+Type=Application
+Categories=Application;
+#Lembrar de Alterar o Diretório
+Icon=/home/calebe94/Heart-Rate.png
+#Lembrar de dar permissão "sudo chmod +x MIDI.desktop"
+

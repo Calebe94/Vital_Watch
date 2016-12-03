@@ -1,0 +1,36 @@
+https://www.youtube.com/watch?v=2_c0yE9QHNI
+https://www.youtube.com/watch?v=2v3rae-73jc
+https://www.youtube.com/watch?v=psTa5ZrqAyo
+https://www.youtube.com/watch?v=Kap_wrUdy_E
+
+
+http://cdn.sparkfun.com/datasheets/Sensors/Biometric/PulseSensorAmpd%20-%20Schematic.pdf
+http://www.ohnitsch.net/2015/03/18/measuring-heart-rate-with-a-piezoelectric-vibration-sensor/
+http://odroid.com/dokuwiki/doku.php?id=en:c1_hardware_adc
+
+Pulse Heart Rate:
+http://blog.zitasport.com/700/2014/03/20/medicion-de-la-frecuencia-cardiaca-mediante-luz-optica/
+http://saude-info.info/pulsacao-em-repouso-por-idade.html
+http://www.moreirajr.com.br/revistas.asp?fase=r003&id_materia=330
+
+Algorithm:
+https://fruct.org/publications/fruct13/files/Lau.pdf
+http://www.ni.com/white-paper/14248/en/
+https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/f2014/sz296_yf88/sz296_yf88.html
+http://electronicdesign.com/digital-ics/build-wrist-heart-rate-monitor-using-ultra-low-power-mcu
+http://embedded-lab.com/blog/introducing-easy-pulse-a-diy-photoplethysmographic-sensor-for-measuring-heart-rate/
+http://www.doctronics.co.uk/ldr_sensors.htm
+https://arxiv.org/pdf/1304.2475.pdf
+https://www.eeweb.com/design-library/heart-rate-and-pulse-oximetry-monitor/
+http://projects.mbientlab.com/heart-rate-data-with-the-pulse-sensor-and-metawear/
+
+
+
+
+Projetcts(it's seens to works):
+http://embedded-lab.com/blog/introducing-easy-pulse-a-diy-photoplethysmographic-sensor-for-measuring-heart-rate/
+http://makezine.com/projects/ir-pulse-sensor/
+http://embedded-lab.com/blog/heart-rate-measurement-from-fingertip/
+https://www.youtube.com/watch?v=VJ3nCVzQZUU
+https://www.googlesciencefair.com/projects/en/2015/d70e617d9bb04012e99e36e468dd125faf55459f8748fb70e2b720db6acd611a
+http://elinux.org/Interfacing_with_I2C_Devices
