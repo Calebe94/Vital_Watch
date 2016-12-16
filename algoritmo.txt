@@ -1,0 +1,20 @@
+
+	+-----------+
+    |	Inicio	|
+	+-----------+
+		   |
+		   V					
+	+---------------------------------------------+				===========================================
+	|	Deseja sobrescrever os dados Anteriores?  |				{Utilizar StatusBar para informações como:
+	+---------------------------------------------+					Arquivo Importado etc.}
+	+--------------+----------------+							===========================================
+	|Corner Buttons|Sim - Não - Sair|
+	+--------------+----------------+							{Em Caso de Erro utilizar Message dialogs}
+	
+	Se [Sim]	GtkEntry(Cadastro: Nome,Idade e Genero)	Mostra dados e Inicia
+	Se [Não]	Label with markup: Mostra dados de Perfil e Inicia
+																	
+	|																GtkAboutDialog para Sobre o APP.
+	|
+	\->	Inicia o Programa e Adquire dados(I²C):
+	\-> Mostrar Temperatura de Uma Cor, e BPM de outra Cor

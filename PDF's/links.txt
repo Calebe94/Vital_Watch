@@ -34,3 +34,11 @@ http://embedded-lab.com/blog/heart-rate-measurement-from-fingertip/
 https://www.youtube.com/watch?v=VJ3nCVzQZUU
 https://www.googlesciencefair.com/projects/en/2015/d70e617d9bb04012e99e36e468dd125faf55459f8748fb70e2b720db6acd611a
 http://elinux.org/Interfacing_with_I2C_Devices
+
+
+
+ICU: Intensive Care Unity
+	http://chronisense.com/
+	http://www.nomadeec.com/en/
+	https://www.hackster.io/protocentral/build-your-own-patient-monitor-with-a-raspberry-pi-dab936
+	https://github.com/Calebe94/HealthyPi
